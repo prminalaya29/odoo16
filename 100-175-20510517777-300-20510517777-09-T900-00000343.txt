@@ -1,0 +1,107 @@
+IDE|T900-00000343|2024-09-13|18:36:40|09|||
+EMI|6|20510517777|IMPORTACIONES MARK PLAS SAC|IMPORTACIONES MARK PLAS SAC|150101|JR. PUNO NRO. 768 URB. BARRIOS ALTOS LIMA - LIMA - LIMA|URB.|LIMA|LIMA|LIMA|PE||X||
+DDE|6|20510517777|IMPORTACIONES MARK PLAS SAC||IMPORTACIONES MARK PLAS SAC|JR. PUNO NRO. 768 URB. BARRIOS ALTOS LIMA - LIMA - LIMA|||||PE||
+GRC|SUNAT_Envio|04|TRASLADO ENTRE ALMACENES||119.58|KGM||01|2024-09-13|20510517777|6|IMPORTACIONES MARK PLAS SAC||||150132|AV. PROCERES DE INDEPENDENCIA 3540 SAN||150101|Jr. Huanuco 299|||||
+GCA|||||||||SUNAT_Envio_IndicadorTrasladoVehiculoM1L||||||||||||||||||20510517777|0016|||20510517777|0018||||||||||||
+GRD|1|24.00|NIU|UND Azucarero de Loza C/Cucharita  CJK-859 DONNA|Azucarero de Loza C/Cucharita  CJK-859 DONNA|028531|||
+GRD|2|32.00|NIU|UND Salsera Loza Rectangular 3 Divisiones 23x7.5x2.4 cm CJK-861 DONNA|Salsera Loza Rectangular 3 Divisiones 23x7.5x2.4 cm CJK-861 DONNA|028533|||
+GRD|3|12.00|NIU|UND Azucarero de Loza Aladino 500 ml CJK-863 DONNA|Azucarero de Loza Aladino 500 ml CJK-863 DONNA|028535|||
+GRD|4|12.00|NIU|UND Cafetera de Loza 800 ml CJK-864 DONNA|Cafetera de Loza 800 ml CJK-864 DONNA|028536|||
+GRD|5|12.00|NIU|UND Cacerola de Loza C/Tapa 21.5x17x12 cm CJK-866 DONNA|Cacerola de Loza C/Tapa 21.5x17x12 cm CJK-866 DONNA|028538|||
+GRD|6|20.00|NIU|UND Cremera de Loza Blanco 10x6x7.5 cm cm CJK-867 DONNA|Cremera de Loza Blanco 10x6x7.5 cm cm CJK-867 DONNA|028539|||
+GRD|7|20.00|NIU|UND Cremera de Loza Blanco7x4.5x5.5 cm CJK-868 DONNA|Cremera de Loza Blanco7x4.5x5.5 cm CJK-868 DONNA|028540|||
+GRD|8|30.00|NIU|UND Cremera de Loza Blanco 6x4x5 cm CJK-869 DONNA|Cremera de Loza Blanco 6x4x5 cm CJK-869 DONNA|028541|||
+GRD|9|20.00|NIU|UND Servilletero de Loza 12x6.5 CJK-870 DONNA|Servilletero de Loza 12x6.5 CJK-870 DONNA|028542|||
+GRD|10|30.00|NIU|UND Bolo de Loza Cuadrado 9x4 cm CJK-871 DONNA|Bolo de Loza Cuadrado 9x4 cm CJK-871 DONNA|028543|||
+GRD|11|25.00|NIU|UND Set Esponjas de Ducha 3 Und HD-0140 PLASTIHOGAR|Set Esponjas de Ducha 3 Und HD-0140 PLASTIHOGAR|021657|||
+GRD|12|10.00|NIU|UND Silla Arcoiris CSLDA1885 / A606 PLASTIHOGAR|Silla Arcoiris CSLDA1885 / A606 PLASTIHOGAR|021702|||
+GRD|13|20.00|NIU|UND Papelera Vaiven Colors CSLDA1892 PLASTIHOGAR|Papelera Vaiven Colors CSLDA1892 PLASTIHOGAR|021713|||
+GRD|14|12.00|NIU|UND Organizador de Metal Cuadrado de Escritorio  CSLDA2252 DONNA|Organizador de Metal Cuadrado de Escritorio  CSLDA2252 DONNA|026790|||
+GRD|15|12.00|NIU|UND Organizador de Metal Redondo de Escritorio C/Divisiones CSLDA2260 DONNA|Organizador de Metal Redondo de Escritorio C/Divisiones CSLDA2260 DONNA|026800|||
+GRD|16|48.00|NIU|UND Botella de Vidrio Aceitera Dubai 230 ml AB-5-260 DONNA|Botella de Vidrio Aceitera Dubai 230 ml AB-5-260 DONNA|028340|||
+GRD|17|24.00|NIU|UND Frasco de Vidrio Diamond 1000 ml 217-2 DONNA|Frasco de Vidrio Diamond 1000 ml 217-2 DONNA|028374|||
+GRD|18|18.00|NIU|UND Frasco de Vidrio Diamond 2000 ml 217-1 DONNA|Frasco de Vidrio Diamond 2000 ml 217-1 DONNA|028377|||
+GRD|19|12.00|NIU|UND Set de Desayuno Blanco Florencia (Tazas 300 ml + Plato 15.5 cm ) 12 Und CJK-857 DONNA|Set de Desayuno Blanco Florencia (Tazas 300 ml + Plato 15.5 cm ) 12 Und CJK-857 DONNA|028529|||
+GRD|20|8.00|NIU|UND Set de Desayuno Blanco Milano (Tazas 450 ml + Plato 16.5 cm) 12 Und CJK-858 DONNA|Set de Desayuno Blanco Milano (Tazas 450 ml + Plato 16.5 cm) 12 Und CJK-858 DONNA|028530|||
+GRD|21|30.00|NIU|UND Bolo de Loza Redondo C/Asa 10x6x2.2 cm CJK-872 DONNA|Bolo de Loza Redondo C/Asa 10x6x2.2 cm CJK-872 DONNA|028544|||
+GRD|22|60.00|NIU|UND Plato Sopero Hondo 7" CJK-873 DONNA|Plato Sopero Hondo 7" CJK-873 DONNA|028545|||
+GRD|23|50.00|NIU|UND Plato Sopero Hondo 8" CJK-874 DONNA|Plato Sopero Hondo 8" CJK-874 DONNA|028546|||
+GRD|24|30.00|NIU|UND Plato Sopero Hondo 9" CJK-875 DONNA|Plato Sopero Hondo 9" CJK-875 DONNA|028547|||
+GRD|25|24.00|NIU|UND Plato Sopero Hondo 10" CJK-876 DONNA|Plato Sopero Hondo 10" CJK-876 DONNA|028548|||
+GRD|26|48.00|NIU|UND Taza Baru 400 ml CJK-915 DONNA|Taza Baru 400 ml CJK-915 DONNA|028552|||
+GRD|27|8.00|NIU|UND Set de Te Ginebra (Taza 200 ml+ Plato 16 cm) 12 Und CJK-916 DONNA|Set de Te Ginebra (Taza 200 ml+ Plato 16 cm) 12 Und CJK-916 DONNA|028554|||
+GRD|28|4.00|NIU|UND Set de Vajilla Roma (Taza 320 ml+ Plato 10.5"+Bolo 8"+ Plato 6") 16 Und CJK-917 DONNA|Set de Vajilla Roma (Taza 320 ml+ Plato 10.5"+Bolo 8"+ Plato 6") 16 Und CJK-917 DONNA|028555|||
+GRD|29|26.00|NIU|UND Bolo Loza 8" CJK-891 DONNA|Bolo Loza 8" CJK-891 DONNA|028578|||
+GRD|30|24.00|NIU|UND Bolo Loza Inclinado 8" CJK-892 DONNA|Bolo Loza Inclinado 8" CJK-892 DONNA|028579|||
+GRD|31|100.00|NIU|UND Bolo Loza 5" CJK-899 DONNA|Bolo Loza 5" CJK-899 DONNA|028586|||
+GRD|32|12.00|NIU|UND Plato Loza Cuadrado 12x15x5.5 cm CJK-900 DONNA|Plato Loza Cuadrado 12x15x5.5 cm CJK-900 DONNA|028587|||
+GRD|33|50.00|NIU|UND Bolo Loza Hondo 8" CJK-904 DONNA|Bolo Loza Hondo 8" CJK-904 DONNA|028591|||
+GRD|34|40.00|NIU|UND Bolo Loza Hondo 9" CJK-905 DONNA|Bolo Loza Hondo 9" CJK-905 DONNA|028592|||
+GRD|35|60.00|NIU|UND Bolo Loza Hondo 6" CJK-907 DONNA|Bolo Loza Hondo 6" CJK-907 DONNA|028596|||
+GRD|36|30.00|NIU|UND Bolo Loza Hondo 8" CJK-908 DONNA|Bolo Loza Hondo 8" CJK-908 DONNA|028597|||
+GRD|37|48.00|NIU|UND Taza Otta 440 ml CJK-910 DONNA|Taza Otta 440 ml CJK-910 DONNA|028599|||
+GRD|38|20.00|NIU|UND Bolo Pekin 10" CJK-914 DONNA|Bolo Pekin 10" CJK-914 DONNA|028604|||
+GRD|39|72.00|NIU|UND Taza Rose Pink 350 ml SDM001-D775 DONNA|Taza Rose Pink 350 ml SDM001-D775 DONNA|028608|||
+GRD|40|12.00|NIU|UND Taco Para Cuchillos CJK-921 DONNA|Taco Para Cuchillos CJK-921 DONNA|028617|||
+GRD|41|12.00|NIU|UND Mortero de Granito CJK-923 DONNA|Mortero de Granito CJK-923 DONNA|028619|||
+GRD|42|12.00|NIU|UND Cesta Rectangular Mimbre 35x25 cm CJK-925 DONNA|Cesta Rectangular Mimbre 35x25 cm CJK-925 DONNA|028621|||
+GRD|43|12.00|NIU|UND Cesta Rectangular Mimbre 40x30 cm CJK-926 DONNA|Cesta Rectangular Mimbre 40x30 cm CJK-926 DONNA|028622|||
+GRD|44|12.00|NIU|UND Cesta Ovalada Mimbre 30x20.5x5.5 cm CJK-932 DONNA|Cesta Ovalada Mimbre 30x20.5x5.5 cm CJK-932 DONNA|028628|||
+GRD|45|30.00|NIU|UND Perchero de Acero 045-8 DONNA|Perchero de Acero 045-8 DONNA|028648|||
+GRD|46|24.00|NIU|UND Set de Coladores de Acero 3 Und CSLDA2380 DONNA|Set de Coladores de Acero 3 Und CSLDA2380 DONNA|028649|||
+GRD|47|24.00|NIU|UND Salero Pimentero de Acero CSLDA2381 DONNA|Salero Pimentero de Acero CSLDA2381 DONNA|028650|||
+GRD|48|24.00|NIU|UND Salero Pimentero de Vidrio CSLDA2382 DONNA|Salero Pimentero de Vidrio CSLDA2382 DONNA|028651|||
+GRD|49|24.00|NIU|UND Set de Bombillas Silver 5 Und CSLDA2383 DONNA|Set de Bombillas Silver 5 Und CSLDA2383 DONNA|028652|||
+GRD|50|24.00|NIU|UND Set de Bombillas Gold 5 Und CSLDA2384 DONNA|Set de Bombillas Gold 5 Und CSLDA2384 DONNA|028653|||
+GRD|51|20.00|NIU|UND Cucharon Gold CSLDA2385 DONNA|Cucharon Gold CSLDA2385 DONNA|028654|||
+GRD|52|20.00|NIU|UND Cucharon Silver CSLDA2386 DONNA|Cucharon Silver CSLDA2386 DONNA|028655|||
+GRD|53|12.00|NIU|UND Pinza Gold  CSLDA2387 DONNA|Pinza Gold  CSLDA2387 DONNA|028656|||
+GRD|54|12.00|NIU|UND Pinza Silver CSLDA2388 DONNA|Pinza Silver CSLDA2388 DONNA|028657|||
+GRD|55|12.00|NIU|UND Cacerola de Acero Silver S/Tapa CSLDA2391 DONNA|Cacerola de Acero Silver S/Tapa CSLDA2391 DONNA|028660|||
+GRD|56|12.00|NIU|UND Cacerola de Acero Gold S/Tapa CSLDA2392 DONNA|Cacerola de Acero Gold S/Tapa CSLDA2392 DONNA|028661|||
+GRD|57|12.00|NIU|UND Set Blister Pinza de Hielo Acero 2 Und CSLDA2395 DONNA|Set Blister Pinza de Hielo Acero 2 Und CSLDA2395 DONNA|028664|||
+GRD|58|12.00|NIU|UND Set Blister Pinza Mulituso Acero 2 Und CSLDA2396 DONNA|Set Blister Pinza Mulituso Acero 2 Und CSLDA2396 DONNA|028665|||
+GRD|59|24.00|NIU|UND Exprimidor de Limon Acero CSLDA2403 DONNA|Exprimidor de Limon Acero CSLDA2403 DONNA|028672|||
+GRD|60|12.00|NIU|UND Bolo de Acero Gold CSLDA2404 DONNA|Bolo de Acero Gold CSLDA2404 DONNA|028673|||
+GRD|61|12.00|NIU|UND Bolo de Acero Gold CSLDA2405 DONNA|Bolo de Acero Gold CSLDA2405 DONNA|028674|||
+GRD|62|12.00|NIU|UND Bolo de Acero Gold CSLDA2406 DONNA|Bolo de Acero Gold CSLDA2406 DONNA|028675|||
+GRD|63|12.00|NIU|UND Bolo de Acero Gold  CSLDA2407 DONNA|Bolo de Acero Gold  CSLDA2407 DONNA|028676|||
+GRD|64|12.00|NIU|UND Hielera de Acero 2 L CSLDA2408 DONNA|Hielera de Acero 2 L CSLDA2408 DONNA|028677|||
+GRD|65|12.00|NIU|UND Bolo Acero 24 cm CSLDA2409 DONNA|Bolo Acero 24 cm CSLDA2409 DONNA|028678|||
+GRD|66|12.00|NIU|UND Bolo Acero 30 cm CSLDA2410 DONNA|Bolo Acero 30 cm CSLDA2410 DONNA|028679|||
+GRD|67|24.00|NIU|UND Colador de Acero C/Asa 24 cm CSLDA2412 DONNA|Colador de Acero C/Asa 24 cm CSLDA2412 DONNA|028683|||
+GRD|68|24.00|NIU|UND Bolo Acero 36 cm CSLDA2413 DONNA|Bolo Acero 36 cm CSLDA2413 DONNA|028684|||
+GRD|69|24.00|NIU|UND Bolo Acero 40 cm CSLDA2414 DONNA|Bolo Acero 40 cm CSLDA2414 DONNA|028685|||
+GRD|70|12.00|NIU|UND Azucarero C/Cucharita Silver 240 ml CJK-941 DONNA|Azucarero C/Cucharita Silver 240 ml CJK-941 DONNA|028701|||
+GRD|71|48.00|NIU|UND Botella de Vidrio Aceitera Dubai 350 ml AB-2-350 DONNA|Botella de Vidrio Aceitera Dubai 350 ml AB-2-350 DONNA|028702|||
+GRD|72|48.00|NIU|UND Salero de Vidrio con Orificios Grandes 350 ml CJK-947 DONNA|Salero de Vidrio con Orificios Grandes 350 ml CJK-947 DONNA|028736|||
+GRD|73|48.00|NIU|UND Dispensador de Azucar 200 ml CJK-949 DONNA|Dispensador de Azucar 200 ml CJK-949 DONNA|028738|||
+GRD|74|48.00|NIU|UND Salero Pimentero Cuadrado 100 ml CJK-950 DONNA|Salero Pimentero Cuadrado 100 ml CJK-950 DONNA|028739|||
+GRD|75|48.00|NIU|UND Salero Pimentero Redondo 60 ml CJK-951 DONNA|Salero Pimentero Redondo 60 ml CJK-951 DONNA|028740|||
+GRD|76|12.00|NIU|UND Jarra de Vidrio Icon 1.1 L  CJK-952 DONNA|Jarra de Vidrio Icon 1.1 L  CJK-952 DONNA|028745|||
+GRD|77|12.00|NIU|UND Jarra de Vidrio Icon 1.5 L CJK-953 DONNA|Jarra de Vidrio Icon 1.5 L CJK-953 DONNA|028746|||
+GRD|78|24.00|NIU|UND Jarra de Vidrio Uva 500 ml CJK-954 DONNA|Jarra de Vidrio Uva 500 ml CJK-954 DONNA|028748|||
+GRD|79|12.00|NIU|UND Set de Vaso de Vidrio Alto 6 Und 300 ml 60164 DONNA|Set de Vaso de Vidrio Alto 6 Und 300 ml 60164 DONNA|028751|||
+GRD|80|24.00|NIU|UND Jarra DE Vidrio Icon 500 ml CJK-957 DONNA|Jarra DE Vidrio Icon 500 ml CJK-957 DONNA|028752|||
+GRD|81|24.00|NIU|UND Set de Taza de Vidrio Te 2 Und 495 ml P-228-1A/B/C/D/E DONNA|Set de Taza de Vidrio Te 2 Und 495 ml P-228-1A/B/C/D/E DONNA|028754|||
+GRD|82|18.00|NIU|UND Set de Taza de Vidrio Grande 2 Und 625 ml P-228 DONNA|Set de Taza de Vidrio Grande 2 Und 625 ml P-228 DONNA|028755|||
+GRD|83|12.00|NIU|UND Jarra de Vidrio Venus 1.6 L CJK-958 DONNA|Jarra de Vidrio Venus 1.6 L CJK-958 DONNA|028756|||
+GRD|84|18.00|NIU|UND Set de Vaso Chop de Vidrio Cervecero 2 Und 500 ml CJK-959 DONNA|Set de Vaso Chop de Vidrio Cervecero 2 Und 500 ml CJK-959 DONNA|028757|||
+GRD|85|12.00|NIU|UND Set Jarro Chopp de Vidrio 600 ml 2 Und CJK-960 DONNA|Set Jarro Chopp de Vidrio 600 ml 2 Und CJK-960 DONNA|028758|||
+GRD|86|36.00|NIU|UND Lapicero Granja MM8885 DONNA|Lapicero Granja MM8885 DONNA|028858|||
+GRD|87|36.00|NIU|UND Lapicero Multicolor Unicornio KP-2401 DONNA|Lapicero Multicolor Unicornio KP-2401 DONNA|028859|||
+GRD|88|36.00|NIU|UND Lapicero Multicolor Astronauta KP-9021 DONNA|Lapicero Multicolor Astronauta KP-9021 DONNA|028860|||
+GRD|89|36.00|NIU|UND Lapicero Multicolor Osito KP-9003 DONNA|Lapicero Multicolor Osito KP-9003 DONNA|028861|||
+GRD|90|24.00|NIU|UND Llavero Didactico 2586U-AL24 PLASTIHOGAR|Llavero Didactico 2586U-AL24 PLASTIHOGAR|028862|||
+GRD|91|36.00|NIU|UND Lapicero Multicolor Panda Space KP-2402 DONNA|Lapicero Multicolor Panda Space KP-2402 DONNA|028863|||
+GRD|92|12.00|NIU|UND Archivador 1 Division 308A DONNA|Archivador 1 Division 308A DONNA|028920|||
+GRD|93|12.00|NIU|UND Set Pizarra Magnetica + Plumon 21.5x28 cm JL-020-ZSH DONNA|Set Pizarra Magnetica + Plumon 21.5x28 cm JL-020-ZSH DONNA|028922|||
+GRD|94|24.00|NIU|UND Set de Plumones de Pizarra + Borrador Mota X-2201-3+1 PLASTIHOGAR|Set de Plumones de Pizarra + Borrador Mota X-2201-3+1 PLASTIHOGAR|028925|||
+GRD|95|6.00|NIU|UND Mini Waflera CJK-1011 DONNA|Mini Waflera CJK-1011 DONNA|028976|||
+GRD|96|12.00|NIU|UND Tapete de Drenaje de Silicona para Lavamanos de Cocina CJK-1014 DONNA|Tapete de Drenaje de Silicona para Lavamanos de Cocina CJK-1014 DONNA|028979|||
+GRD|97|12.00|NIU|UND Organizador C/Escurridor de Utensilios CJK-1016 DONNA|Organizador C/Escurridor de Utensilios CJK-1016 DONNA|028982|||
+GRD|98|9.00|NIU|UND Set de Condimenteros Redondo Giratorio 12 Und B88-12A DONNA|Set de Condimenteros Redondo Giratorio 12 Und B88-12A DONNA|028983|||
+GRD|99|6.00|NIU|UND Set de Condimenteros 12 Und 1028 DONNA|Set de Condimenteros 12 Und 1028 DONNA|028984|||
+GRD|100|24.00|NIU|UND Organizador de Acero Redondo P/Utensilios 533-1 DONNA|Organizador de Acero Redondo P/Utensilios 533-1 DONNA|029042|||
+GRD|101|12.00|NIU|UND Coladera Acero C/Asas 20 cm 433-1 DONNA|Coladera Acero C/Asas 20 cm 433-1 DONNA|029043|||
+GRD|102|12.00|NIU|UND Frasco de Vidrio Diamond 480 ml 217-3 DONNA|Frasco de Vidrio Diamond 480 ml 217-3 DONNA|028373|||
